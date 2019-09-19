@@ -1,0 +1,10 @@
+.board{
+  background-color: #705255;
+  height: 400px;
+  width: 400px;
+}
+.token{
+  background-color: #FFB780;
+  height: 20px;
+  width: 20px;
+}
